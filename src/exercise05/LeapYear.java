@@ -1,4 +1,4 @@
-package exercise5;
+package exercise05;
 
 public class LeapYear {
     public static void main(String[] args) {

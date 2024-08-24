@@ -1,4 +1,4 @@
-package exercise3;
+package exercise03;
 
 public class MegaBytesConverter {
     public static void main(String[] args) {

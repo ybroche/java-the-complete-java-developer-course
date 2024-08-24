@@ -1,4 +1,4 @@
-package exercise9;
+package exercise09;
 
 public class AreaCalculator {
     public static void main(String[] args) {

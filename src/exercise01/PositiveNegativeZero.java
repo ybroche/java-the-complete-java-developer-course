@@ -1,4 +1,4 @@
-package exercise1;
+package exercise01;
 
 public class PositiveNegativeZero {
     public static void main(String[] args) {

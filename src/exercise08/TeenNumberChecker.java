@@ -1,4 +1,4 @@
-package exercise8;
+package exercise08;
 
 public class TeenNumberChecker {
     public static void main(String[] args) {

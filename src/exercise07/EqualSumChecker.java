@@ -1,4 +1,4 @@
-package exercise7;
+package exercise07;
 
 public class EqualSumChecker {
     public static void main(String[] args) {
